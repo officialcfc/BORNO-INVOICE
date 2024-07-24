@@ -1,0 +1,182 @@
+body {
+    width: 98%;
+    font-family: 'Roboto', sans-serif;
+}
+
+.header h2 {
+    font-family: 'Roboto', sans-serif;
+    color: rgb(1, 33, 139);
+    font-size: 29px;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.header img {
+    display: block;
+margin-left: auto;
+margin-right: auto;
+width: 15%;
+}
+
+.header p {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    margin-left: 170px;
+    font-size: 11px;
+}
+
+.header b {
+    color: blue;
+}
+.table-a h5 {
+    padding-left: 15px;
+    background-color: rgba(212, 141, 8, 0.61);
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.qr-code-col {
+    flex-basis: 40%;
+    
+}
+
+.qr-code-col img {
+    width: 10%;
+    margin-left: 40%;
+    margin-top: 5%;
+}
+
+.qr-code-col h4, p {
+    text-align: center;
+    color: blue;
+    margin: 0;
+    padding: 0;
+    width: 55%;
+}
+
+.qr-code-col h4 {
+    margin-top: 35px;
+    font-size: 10px;
+}
+.qr-code-col p {
+    font-size: 10px;
+}
+p{
+    color: black;
+    margin-bottom: 20px;
+}
+
+.qr-code-col h3, .qr {
+    text-align: center;
+    background-color:#222E50;
+    color: whitesmoke;
+    margin: 0;
+    padding: 0;
+    width: 50%;
+}
+
+.qr-code-col h3 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+        text-align: center;
+        font-size: 15px;
+}
+.qr-code-col .qr {
+    text-align: center;
+    background-color: rgba(212, 141, 8, 0.61);
+    padding-top: 10px;
+    font-size: 10px;
+    color: black;
+    
+}
+
+.qr-code-col h5 {
+    text-align: center;
+    padding: 20px 20px 40px 20px ;
+}
+.row {
+    display: flex;
+    justify-content: space-between;
+}
+
+.qr-code {
+width: 100%;
+}
+.osoftlogo img {
+width: 7%;
+padding-top: 25px;
+}
+.hcolor, table {
+    background-color:#222E50;
+    padding: 2px;
+    margin: 0px;
+}
+
+.hcolor {
+    padding-left: 10px;
+    font-size: 15px;
+    color: whitesmoke;
+}
+
+
+table {
+    background-color: #EDF7F6;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 100%;
+    margin-top: 5px;
+
+}
+th {
+    padding-right: 100%;
+    font-size: 10px;
+    padding-left: 20px;
+}
+
+td {
+    padding-left: 20px;
+    font-size: 10px;
+}
+
+.newp {
+    background-color: rgba(212, 141, 8, 0.61);
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 20px;
+    width: 1%;
+}
+
+.newpi {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 15%;
+    width: 10%;
+}
+
+.newrequired {
+    background-color: rgba(212, 141, 8, 0.61);
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 20px;
+}
+
+.ORR {
+    background-color: rgba(212, 141, 8, 0.61);
+}
+.oowered p {
+    text-align: center;
+    margin-left: 170px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+.oowered-col h4 {
+    font-size: 15px;
+    margin-right: 50px;
+    text-align: center;
+    margin-top: 18px;
+}
+
+.oowered-col img {
+    width: 30%;
+    margin-left: 80px;
+}
